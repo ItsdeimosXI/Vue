@@ -1,10 +1,10 @@
 <template>
   <div>
-  <ExampleFor/>
+  <ModelFrom/>
   </div>
 </template>
 <script lang="ts" setup>
-import ExampleFor from './components/ExampleFor.vue';
+import ModelFrom from './components/ModelFrom.vue';
 </script>
 <style scoped>
 div {
