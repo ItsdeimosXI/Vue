@@ -1,10 +1,10 @@
 <template>
   <div>
-  <ModelFrom/>
+ <PostList/>
   </div>
 </template>
 <script lang="ts" setup>
-import ModelFrom from './components/ModelFrom.vue';
+import PostList from './components/PostList.vue';
 </script>
 <style scoped>
 div {
